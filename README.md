@@ -2,9 +2,9 @@
 
  **What You'll Find Here:**
 
-**Slides:** Presentation slides designed for use in teaching Python sessions.
+**Slides:** Presentation slides designed for use in teaching DSA sessions.
 
-**Tutorials:** Links to video tutorials covering various Python topics and concepts.
+**Tutorials:** Links to video tutorials covering various DSA topics and concepts.
 
 **Comprehensive Materials:** Get access to all the materials you need, including assignments, class practice exercises, and more.
 
