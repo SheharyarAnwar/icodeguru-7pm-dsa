@@ -31,7 +31,7 @@
             </td>
             <td align="center">
                 <a href="https://github.com/reemamemon">
-                    <img src="https://avatars.githubusercontent.com/u/reemamemon" width="100px;" alt="Reema Memon"/>
+                    <img src="https://avatars.githubusercontent.com/u/154791336?v=4" width="100px;" alt="Reema Memon"/>
                     <br />
                     <sub><b>Reema Memon</b></sub>
                 </a> 
