@@ -31,7 +31,7 @@
             </td>
             <td align="center">
                 <a href="https://github.com/reemamemon">
-                    <img src="https://avatars.githubusercontent.com/u/96947240?v=4" width="100px;" alt="Reema Memon"/>
+                    <img src="https://avatars.githubusercontent.com/u/reemamemon" width="100px;" alt="Reema Memon"/>
                     <br />
                     <sub><b>Reema Memon</b></sub>
                 </a> 
@@ -45,9 +45,9 @@
             </td>
             <td align="center">
                 <a href="Your Github URL Here">
-                    <img src="Your Image/Avatar Url Here" width="100px;" alt="Reema Memon"/>
+                    <img src="Your Image/Avatar Url Here" width="100px;" alt="Touqeer Shahid"/>
                     <br />
-                    <sub><b>Reema Memon</b></sub>
+                    <sub><b>Touqeer Shahid</b></sub>
                 </a> 
             </td>
             </tr> 
