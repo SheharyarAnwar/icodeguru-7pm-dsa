@@ -16,33 +16,40 @@
     <tbody>
         <tr>
             <td align="center">
-                <a href="https://github.com/Fatimaarshad10">
-                    <img src="https://avatars.githubusercontent.com/u/75124780?v=4" width="100px;" alt="Fatima Arshad"/>
+                <a href="Your Github URL Here">
+                    <img src="Your Image/Avatar Url Here" width="100px;" alt="Sheharyar Anwar"/>
                     <br />
-                    <sub><b>Fatima Arshad</b></sub>
+                    <sub><b>Sheharyar Anwar</b></sub>
                 </a> 
             </td>
           <td align="center">
-                <a href="https://github.com/aamna-ansari">
-                    <img src="https://avatars.githubusercontent.com/u/123650396?v=4" width="100px;" alt="AaMna AnSari"/>
+                <a href="Your Github URL Here">
+                    <img src="Your Image/Avatar Url Here" width="100px;" alt="Laiba Khan"/>
                     <br />
-                    <sub><b>AaMna AnSari</b></sub>
+                    <sub><b>Laiba Khan</b></sub>
                 </a> 
             </td>
             <td align="center">
-                <a href="https://github.com/shaistaDev7">
-                    <img src="https://avatars.githubusercontent.com/u/96947240?v=4" width="100px;" alt=""/>
+                <a href="https://github.com/reemamemon">
+                    <img src="https://avatars.githubusercontent.com/u/96947240?v=4" width="100px;" alt="Reema Memon"/>
                     <br />
-                    <sub><b>Shaista Zulfiqar</b></sub>
+                    <sub><b>Reema Memon</b></sub>
                 </a> 
             </td>
             <td align="center">
-                <a href="https://github.com/Haris-Mughal">
-                    <img src="https://avatars.githubusercontent.com/u/112110110?v=4" width="100px;" alt="Muhammad Haris Ahsan"/>
+                <a href="Your Github URL Here">
+                    <img src="Your Image/Avatar Url Here" width="100px;" alt="Zunaira Ashraf"/>
                     <br />
-                    <sub><b>Muhammad Haris Ahsan</b></sub>
+                    <sub><b>Zunaira Ashraf</b></sub>
                 </a> 
             </td>
-        </tr> 
+            <td align="center">
+                <a href="Your Github URL Here">
+                    <img src="Your Image/Avatar Url Here" width="100px;" alt="Reema Memon"/>
+                    <br />
+                    <sub><b>Reema Memon</b></sub>
+                </a> 
+            </td>
+            </tr> 
 </tbody>
 <table>
