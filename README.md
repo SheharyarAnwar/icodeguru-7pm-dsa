@@ -23,8 +23,8 @@
                 </a> 
             </td>
           <td align="center">
-                <a href="Your Github URL Here">
-                    <img src="Your Image/Avatar Url Here" width="100px;" alt="Laiba Khan"/>
+                <a href="https://github.com/LaibaKhan112">
+                    <img src="https://avatars.githubusercontent.com/u/154888503?v=4" width="100px;" alt="Laiba Khan"/>
                     <br />
                     <sub><b>Laiba Khan</b></sub>
                 </a> 
@@ -44,8 +44,8 @@
                 </a> 
             </td>
             <td align="center">
-                <a href="Your Github URL Here">
-                    <img src="Your Image/Avatar Url Here" width="100px;" alt="Touqeer Shahid"/>
+                <a href="https://github.com/TouqeerShahid951">
+                    <img src="https://avatars.githubusercontent.com/u/ 73354832?v=4" width="100px;" alt="Touqeer Shahid"/>
                     <br />
                     <sub><b>Touqeer Shahid</b></sub>
                 </a> 
@@ -76,7 +76,7 @@
   </tr>
         <tr>
     <td align="center"><b>Day 01</b></br>29-Oct-2024</td>
-    <td align="center"><a href="">Time Complexity</br></td>
+    <td align="center"><a href="https://fb.watch/vwICJ25wfB/">Time Complexity</br></td>
     <td align="center" ><a href="">Slides</td>
         <td align="center"> Understanding time complexity<br/> Big O notation<br/> analyzing the efficiency of algorithms.</td>
       <td align="center"><a href="https://www.linkedin.com/in/laiba-khan-325ba623a/">Sheharyar Anwar</td>
