@@ -16,8 +16,8 @@
     <tbody>
         <tr>
             <td align="center">
-                <a href="Your Github URL Here">
-                    <img src="Your Image/Avatar Url Here" width="100px;" alt="Sheharyar Anwar"/>
+                <a href="https://github.com/SheharyarAnwar">
+                    <img src="https://avatars.githubusercontent.com/u/43964105?v=4" width="100px;" alt="Sheharyar Anwar"/>
                     <br />
                     <sub><b>Sheharyar Anwar</b></sub>
                 </a> 
@@ -45,7 +45,7 @@
             </td>
             <td align="center">
                 <a href="https://github.com/TouqeerShahid951">
-                    <img src="https://avatars.githubusercontent.com/u/ 73354832?v=4" width="100px;" alt="Touqeer Shahid"/>
+                    <img src="https://avatars.githubusercontent.com/u/73354832?v=4" width="100px;" alt="Touqeer Shahid"/>
                     <br />
                     <sub><b>Touqeer Shahid</b></sub>
                 </a> 
