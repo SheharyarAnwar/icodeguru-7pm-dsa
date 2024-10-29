@@ -74,6 +74,13 @@
         <td align="center">Introduction to DSA<br/> Array basics<br/> common operations (insertion, deletion, traversal).</td>
       <td align="center"><a href="https://www.linkedin.com/in/laiba-khan-325ba623a/">Laiba Khan</td>
   </tr>
+        <tr>
+    <td align="center"><b>Day 01</b></br>29-Oct-2024</td>
+    <td align="center"><a href="">Time Complexity</br></td>
+    <td align="center" ><a href="">Slides</td>
+        <td align="center"> Understanding time complexity<br/> Big O notation<br/> analyzing the efficiency of algorithms.</td>
+      <td align="center"><a href="https://www.linkedin.com/in/laiba-khan-325ba623a/">Sheharyar Anwar</td>
+  </tr>
 </tbody>
 <table>
 
