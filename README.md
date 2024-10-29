@@ -53,3 +53,28 @@
             </tr> 
 </tbody>
 <table>
+
+
+
+
+# Week 01
+<table>
+    <tbody>
+     <tr>
+      <th>Days</th>
+      <th>Video Links (Facebook)</br></th>
+      <th>Materials</th>
+     <th>Topics</th>
+   <td align="center"><b>Trainer Name</b></td>
+     </tr>  
+        <tr>
+    <td align="center"><b>Day 01</b></br>28-Oct-2024</td>
+    <td align="center"><a href="https://fb.watch/vwH6w6S1qD/">Introduction to Arrays</br></td>
+    <td align="center" ><a href="https://docs.google.com/presentation/d/1PfieuQDT6p_lkF2dzPNp9hzykvfch67f/edit?usp=sharing&ouid=102760939971131448070&rtpof=true&sd=true">Slides</td>
+        <td align="center">Introduction to DSA<br/> Array basics<br/> common operations (insertion, deletion, traversal).</td>
+      <td align="center"><a href="https://www.linkedin.com/in/laiba-khan-325ba623a/">Laiba Khan</td>
+  </tr>
+</tbody>
+<table>
+
+
