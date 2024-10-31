@@ -75,12 +75,25 @@
       <td align="center"><a href="https://www.linkedin.com/in/laiba-khan-325ba623a/">Laiba Khan</td>
   </tr>
         <tr>
-    <td align="center"><b>Day 01</b></br>29-Oct-2024</td>
+    <td align="center"><b>Day 02</b></br>29-Oct-2024</td>
     <td align="center"><a href="https://fb.watch/vwICJ25wfB/">Time Complexity</br></td>
     <td align="center" ><a href="https://docs.google.com/presentation/d/1cdWKdr1O_Ge2iY3Mp3WMWIjWryOH_K3qB2yGzEs5fSo/edit?usp=sharing">Slides</td>
         <td align="center"> Understanding time complexity<br/> Big O notation<br/> Analyzing the efficiency of algorithms.</td>
       <td align="center"><a href="https://www.linkedin.com/in/sheharyar-anwar/">Sheharyar Anwar</td>
   </tr>
+   <tr>
+    <td align="center"><b>Day 03</b></br>30-Oct-2024</td>
+    <td align="center"><a href="https://web.facebook.com/share/v/N1snbfhxvjZoVekx/">Leetcode Problems related to Lists</br></td>
+    <td align="center" ><a href="https://docs.google.com/presentation/d/1cdWKdr1O_Ge2iY3Mp3WMWIjWryOH_K3qB2yGzEs5fSo/edit?usp=sharing">Slides</td>
+        <td align="center"> Solved Leetcode Problems 2942, 217</td>
+      <td align="center">
+  <a href="https://www.linkedin.com/in/sheharyar-anwar/">Sheharyar Anwar</a> & <a href="https://github.com/LaibaKhan112">Laiba Khan</a>
+</td>
+
+        
+  </tr>
+
+     
 </tbody>
 <table>
 
