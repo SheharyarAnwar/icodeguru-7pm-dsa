@@ -84,7 +84,7 @@
    <tr>
     <td align="center"><b>Day 03</b></br>30-Oct-2024</td>
     <td align="center"><a href="https://web.facebook.com/share/v/N1snbfhxvjZoVekx/">7PM PKT DSA for Absolute Beginners | week 1 | Day 3</br></td>
-    <td align="center" ><a href="https://docs.google.com/presentation/d/1cdWKdr1O_Ge2iY3Mp3WMWIjWryOH_K3qB2yGzEs5fSo/edit?usp=sharing">Slides</td>
+    <td align="center" ></td>
         <td align="center"> Solved Leetcode Problems: 2942, 217</td>
       <td align="center">
   <a href="https://www.linkedin.com/in/sheharyar-anwar/">Sheharyar Anwar</a> & <a href="https://github.com/LaibaKhan112">Laiba Khan</a>
@@ -95,7 +95,7 @@
    <tr>
     <td align="center"><b>Day 04</b></br>31-Oct-2024</td>
     <td align="center"><a href="https://web.facebook.com/share/v/cd6cG7XgQ9PoWA4j/">7PM PKT DSA for Absolute Beginners | week 1 | Day 3</br></td>
-    <td align="center" ><a href="https://docs.google.com/presentation/d/1cdWKdr1O_Ge2iY3Mp3WMWIjWryOH_K3qB2yGzEs5fSo/edit?usp=sharing">Slides</td>
+    <td align="center" ></td>
         <td align="center"> Solved Leetcode Problems: 1, 242</td>
       <td align="center">
   <a href="https://www.linkedin.com/in/sheharyar-anwar/">Sheharyar Anwar</a> & <a href="https://github.com/LaibaKhan112">Laiba Khan</a>
