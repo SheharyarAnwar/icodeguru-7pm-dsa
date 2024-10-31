@@ -69,21 +69,21 @@
      </tr>  
         <tr>
     <td align="center"><b>Day 01</b></br>28-Oct-2024</td>
-    <td align="center"><a href="https://fb.watch/vwH6w6S1qD/">Introduction to Arrays</br></td>
+    <td align="center"><a href="https://fb.watch/vwH6w6S1qD/">7PM PKT DSA for Absolute Beginners | week 1 | Day 1</br></td>
     <td align="center" ><a href="https://docs.google.com/presentation/d/1PfieuQDT6p_lkF2dzPNp9hzykvfch67f/edit?usp=sharing&ouid=102760939971131448070&rtpof=true&sd=true">Slides</td>
         <td align="center">Introduction to DSA<br/> Array basics<br/> Common operations (insertion, deletion, traversal).</td>
       <td align="center"><a href="https://www.linkedin.com/in/laiba-khan-325ba623a/">Laiba Khan</td>
   </tr>
         <tr>
     <td align="center"><b>Day 02</b></br>29-Oct-2024</td>
-    <td align="center"><a href="https://fb.watch/vwICJ25wfB/">Time Complexity</br></td>
+    <td align="center"><a href="https://fb.watch/vwICJ25wfB/">7PM PKT DSA for Absolute Beginners | week 1 | Day 2</br></td>
     <td align="center" ><a href="https://docs.google.com/presentation/d/1cdWKdr1O_Ge2iY3Mp3WMWIjWryOH_K3qB2yGzEs5fSo/edit?usp=sharing">Slides</td>
         <td align="center"> Understanding time complexity<br/> Big O notation<br/> Analyzing the efficiency of algorithms.</td>
       <td align="center"><a href="https://www.linkedin.com/in/sheharyar-anwar/">Sheharyar Anwar</td>
   </tr>
    <tr>
     <td align="center"><b>Day 03</b></br>30-Oct-2024</td>
-    <td align="center"><a href="https://web.facebook.com/share/v/N1snbfhxvjZoVekx/">Leetcode Problems related to Lists</br></td>
+    <td align="center"><a href="https://web.facebook.com/share/v/N1snbfhxvjZoVekx/">7PM PKT DSA for Absolute Beginners | week 1 | Day 3</br></td>
     <td align="center" ><a href="https://docs.google.com/presentation/d/1cdWKdr1O_Ge2iY3Mp3WMWIjWryOH_K3qB2yGzEs5fSo/edit?usp=sharing">Slides</td>
         <td align="center"> Solved Leetcode Problems 2942, 217</td>
       <td align="center">
