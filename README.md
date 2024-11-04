@@ -110,7 +110,16 @@
         <td align="center">Presentation Day <br>(Solved Leetcode Problems: 1470, 1480)</td>
       <td align="center">
   <a href="https://www.linkedin.com/in/sheharyar-anwar/">Sheharyar Anwar</a> & <a href="https://github.com/LaibaKhan112">Laiba Khan</a>
-</td>        
+</td>
+
+ <tr>
+    <td align="center"><b>Day 01</b></br>04-Nov-2024</td>
+    <td align="center"><a href="https://www.facebook.com/share/v/Y5UQKyNGqUZJSbEG/">7PM PKT DSA for Absolute Beginners | week 2 | Day 1</br></td>
+    <td align="center" ><a href="https://docs.google.com/presentation/d/112zEVe8tp73MBM-4GHAoE9LQnwVZ8b3BpIRXFYHGLTY/edit?usp=sharing">Slides</td>
+        <td align="center">Understanding Dictionaries/Hashmaps. <br> Solved Leetcode Problem: 242</td>
+      <td align="center">
+  <a href="https://www.linkedin.com/in/sheharyar-anwar/">Sheharyar Anwar</a> & <a href="https://github.com/LaibaKhan112">Laiba Khan</a>
+</td>  
   </tr>
 </tbody>
 <table>
