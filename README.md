@@ -94,14 +94,24 @@
  </tr>
    <tr>
     <td align="center"><b>Day 04</b></br>31-Oct-2024</td>
-    <td align="center"><a href="https://web.facebook.com/share/v/cd6cG7XgQ9PoWA4j/">7PM PKT DSA for Absolute Beginners | week 1 | Day 3</br></td>
+    <td align="center"><a href="https://web.facebook.com/share/v/cd6cG7XgQ9PoWA4j/">7PM PKT DSA for Absolute Beginners | week 1 | Day 4</br></td>
     <td align="center" ></td>
         <td align="center"> Solved Leetcode Problems: 1, 242</td>
       <td align="center">
   <a href="https://www.linkedin.com/in/sheharyar-anwar/">Sheharyar Anwar</a> & <a href="https://github.com/LaibaKhan112">Laiba Khan</a>
 </td>        
   </tr>
-     
+
+ </tr>
+   <tr>
+    <td align="center"><b>Day 05</b></br>01-Nov-2024</td>
+    <td align="center"><a href="https://www.facebook.com/share/v/6fuhYvE63BtRtnM3/">7PM PKT DSA for Absolute Beginners | week 1 | Day 5</br></td>
+    <td align="center" ></td>
+        <td align="center">Presentation Day <br>(Solved Leetcode Problems: 1470, 1480)</td>
+      <td align="center">
+  <a href="https://www.linkedin.com/in/sheharyar-anwar/">Sheharyar Anwar</a> & <a href="https://github.com/LaibaKhan112">Laiba Khan</a>
+</td>        
+  </tr>
 </tbody>
 <table>
 
