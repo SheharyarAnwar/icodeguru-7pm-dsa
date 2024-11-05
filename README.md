@@ -124,7 +124,7 @@
 
 <tr>
     <td align="center"><b>Day 02</b></br>05-Nov-2024</td>
-    <td align="center"><a href="https://www.facebook.com/share/v/Y5UQKyNGqUZJSbEG/">7PM PKT DSA for Absolute Beginners | week 2 | Day 2</br></td>
+    <td align="center"><a href="https://www.facebook.com/share/v/Lnx3RxjW3Tpq9BAR/">7PM PKT DSA for Absolute Beginners | week 2 | Day 2</br></td>
     <td align="center" ></td>
         <td align="center">Solved Leetcode Problem: 169, 242</td>
       <td align="center">
