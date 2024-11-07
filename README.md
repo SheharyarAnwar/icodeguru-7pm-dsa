@@ -123,5 +123,12 @@
             <td align="center">Solved Leetcode Problem: 13, 409</td>
             <td align="center"><a href="https://www.linkedin.com/in/sheharyar-anwar/">Sheharyar Anwar</a> & <a href="https://github.com/LaibaKhan112">Laiba Khan</a></td>
         </tr>
+         <tr>
+            <td align="center"><b>Day 04</b><br>07-Nov-2024</td>
+            <td align="center"><a href="https://www.facebook.com/share/v/15GPpsYWVS/">7PM PKT DSA for Absolute Beginners | week 2 | Day 4</a></td>
+            <td align="center"></td>
+            <td align="center">Solved Leetcode Problem: 219, 205</td>
+            <td align="center"><a href="https://www.linkedin.com/in/sheharyar-anwar/">Sheharyar Anwar</a> & <a href="https://github.com/LaibaKhan112">Laiba Khan</a></td>
+        </tr>
     </tbody>
 </table>
