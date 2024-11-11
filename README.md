@@ -130,5 +130,20 @@
             <td align="center">Solved Leetcode Problem: 219, 205</td>
             <td align="center"><a href="https://www.linkedin.com/in/sheharyar-anwar/">Sheharyar Anwar</a> & <a href="https://github.com/LaibaKhan112">Laiba Khan</a></td>
         </tr>
+         <tr>
+            <td align="center"><b>Day 05</b><br>08-Nov-2024</td>
+            <td align="center"><a href="https://www.facebook.com/share/v/19UFMrLFAc/">7PM PKT DSA for Absolute Beginners | week 2 | Day 5</a></td>
+            <td align="center"></td>
+            <td align="center">Solved Leetcode Problem: 1512, 202</td>
+            <td align="center"><a href="https://www.linkedin.com/in/sheharyar-anwar/">Sheharyar Anwar</a></td>
+        </tr>
+        <tr>
+            <td align="center" rowspan="5"><b>Week 03</b></td>
+            <td align="center"><b>Day 01</b><br>11-Nov-2024</td>
+            <td align="center"><a href="https://www.facebook.com/share/v/1BJWqh6qwE/">7PM PKT DSA for Absolute Beginners | week 3 | Day 1</a></td>
+            <td align="center"></td>
+            <td align="center">Solved Leetcode Problem: 14, 451</td>
+            <td align="center"><a href="https://www.linkedin.com/in/sheharyar-anwar/">Sheharyar Anwar</a> & <a href="https://github.com/LaibaKhan112">Laiba Khan</a></td>
+        </tr>
     </tbody>
 </table>
