@@ -149,8 +149,8 @@
             <td align="center"><b>Day 02</b><br>02-Nov-2024</td>
             <td align="center"><a href="https://www.facebook.com/share/v/14CXbbFmqL/">7PM PKT DSA for Absolute Beginners | week 2 | Day 5</a></td>
             <td align="center"></td>
-            <td align="center">Solved Leetcode Problem: 1512, 202</td>
-            <td align="center"><a href="https://www.linkedin.com/in/sheharyar-anwar/">Sheharyar Anwar</a></td>
+            <td align="center">Discussed Two Pointer Approach <br> Solved Leetcode Problem: 344, 14</td>
+            <td align="center"><a href="https://www.linkedin.com/in/sheharyar-anwar/">Sheharyar Anwar</a> & <a href="https://github.com/LaibaKhan112">Laiba Khan</a></td>
         </tr>
     </tbody>
 </table>
