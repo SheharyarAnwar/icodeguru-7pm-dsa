@@ -166,6 +166,23 @@
             <td align="center">Discussed Two Pointer Approach <br> Solved Leetcode Problem: 88, 917</td>
             <td align="center"><a href="https://www.linkedin.com/in/sheharyar-anwar/">Sheharyar Anwar</a> & <a href="https://github.com/LaibaKhan112">Laiba Khan</a></td>
         </tr>
+        <tr>
+            <td align="center"><b>Day 05</b><br>15-Nov-2024</td>
+            <td align="center"><a href="https://www.facebook.com/share/v/19JtzGTi9h/">7PM PKT DSA for Absolute Beginners | week 3 | Day 5</a></td>
+            <td align="center"></td>
+            <td align="center">Solved Leetcode Problem: 71, 167</td>
+            <td align="center"><a href="https://www.linkedin.com/in/sheharyar-anwar/">Sheharyar Anwar</a> & <a href="https://github.com/LaibaKhan112">Laiba Khan</a></td>
+        </tr>
+         <tr>
+            <td align="center" rowspan="5"><b>Week 04</b></td>
+            <td align="center"><b>Day 01</b><br>18-Nov-2024</td>
+            <td align="center"><a href="https://www.facebook.com/share/v/1BXFaEBmwe/">7PM PKT DSA for Absolute Beginners | week 4 | Day 1</a></td>
+            <td align="center"><a href="https://docs.google.com/presentation/d/112zEVe8tp73MBM-4GHAoE9LQnwVZ8b3BpIRXFYHGLTY/edit?usp=sharing">Slides</a></td>
+            <td align="center">Discuseed Sliding Window<br>Solved Leetcode Problem: 121</td>
+            <td align="center"><a href="https://www.linkedin.com/in/sheharyar-anwar/">Sheharyar Anwar</a> & <a href="https://github.com/LaibaKhan112">Laiba Khan</a></td>
+        </tr
+
+        
         
         
     </tbody>
