@@ -180,6 +180,20 @@
             <td align="center"></td>
             <td align="center">Discuseed Sliding Window<br>Solved Leetcode Problem: 121</td>
             <td align="center"><a href="https://www.linkedin.com/in/sheharyar-anwar/">Sheharyar Anwar</a> & <a href="https://github.com/LaibaKhan112">Laiba Khan</a></td>
+         </tr>
+         <tr>
+           <td align="center"><b>Day 02</b><br>19-Nov-2024</td>
+            <td align="center"><a href="https://web.facebook.com/share/v/14vj9pVq9m/">7PM PKT DSA for Absolute Beginners | week 4 | Day 2</a></td>
+            <td align="center"></td>
+            <td align="center">Solved Leetcode Problem: 3, 1876</td>
+            <td align="center"><a href="https://www.linkedin.com/in/sheharyar-anwar/">Sheharyar Anwar</a> & <a href="https://github.com/LaibaKhan112">Laiba Khan</a></td>
+         </tr>
+         <tr>
+            <td align="center"><b>Day 01</b><br>20-Nov-2024</td>
+            <td align="center"><a href="https://web.facebook.com/share/v/15Yig5Tc6G/">7PM PKT DSA for Absolute Beginners | week 4 | Day 3</a></td>
+            <td align="center"></td>
+            <td align="center">Solved Leetcode Problem: 643</td>
+            <td align="center"><a href="https://www.linkedin.com/in/sheharyar-anwar/">Sheharyar Anwar</a> & <a href="https://github.com/LaibaKhan112">Laiba Khan</a></td>
         </tr
 
         
