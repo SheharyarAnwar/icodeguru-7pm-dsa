@@ -189,10 +189,10 @@
             <td align="center"><a href="https://www.linkedin.com/in/sheharyar-anwar/">Sheharyar Anwar</a> & <a href="https://github.com/LaibaKhan112">Laiba Khan</a></td>
          </tr>
          <tr>
-            <td align="center"><b>Day 01</b><br>20-Nov-2024</td>
+            <td align="center"><b>Day 03</b><br>20-Nov-2024</td>
             <td align="center"><a href="https://web.facebook.com/share/v/15Yig5Tc6G/">7PM PKT DSA for Absolute Beginners | week 4 | Day 3</a></td>
             <td align="center"></td>
-            <td align="center">Solved Leetcode Problem: 643</td>
+            <td align="center">Solved Leetcode Problem: 643, 567</td>
             <td align="center"><a href="https://www.linkedin.com/in/sheharyar-anwar/">Sheharyar Anwar</a> & <a href="https://github.com/LaibaKhan112">Laiba Khan</a></td>
         </tr
 
