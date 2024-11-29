@@ -194,7 +194,60 @@
             <td align="center"></td>
             <td align="center">Solved Leetcode Problem: 643, 567</td>
             <td align="center"><a href="https://www.linkedin.com/in/sheharyar-anwar/">Sheharyar Anwar</a> & <a href="https://github.com/LaibaKhan112">Laiba Khan</a></td>
-        </tr
+         </tr>
+         <tr>
+            <td align="center"><b>Day 04</b><br>21-Nov-2024</td>
+            <td align="center"><a href="https://web.facebook.com/share/v/15Yig5Tc6G/">7PM PKT DSA for Absolute Beginners | week 4 | Day 4</a></td>
+            <td align="center"></td>
+            <td align="center">Solved Leetcode Problem: 643, 567</td>
+            <td align="center"><a href="https://www.linkedin.com/in/sheharyar-anwar/">Sheharyar Anwar</a> & <a href="https://github.com/LaibaKhan112">Laiba Khan</a></td>
+         </tr>
+          <tr>
+            <td align="center"><b>Day 05</b><br>22-Nov-2024</td>
+            <td align="center"><a href="https://fb.watch/w9w7zrnwQ-/">7PM PKT DSA for Absolute Beginners | week 4 | Day 5</a></td>
+            <td align="center"></td>
+            <td align="center">Presentation Day: Solved Leetcode Problem: 349, 35</td>
+            <td align="center"><a href="https://www.linkedin.com/in/sheharyar-anwar/">Sheharyar Anwar</a> & <a href="https://github.com/LaibaKhan112">Laiba Khan</a></td>
+         </tr>
+         <tr>
+            <td align="center" rowspan="5"><b>Week 05</b></td>
+            <td align="center"><b>Day 01</b><br>25-Nov-2024</td>
+            <td align="center"><a href="https://fb.watch/w9wjvxH-0L/">7PM PKT DSA for Absolute Beginners | week 5 | Day 1</a></td>
+            <td align="center"></td>
+            <td align="center">Discuseed Binary Search Algorithem<br>Solved Leetcode Problem: 35</td>
+            <td align="center"><a href="https://www.linkedin.com/in/sheharyar-anwar/">Sheharyar Anwar</a> & <a href="https://github.com/LaibaKhan112">Laiba Khan</a></td>
+         </tr>
+         <tr>
+           <td align="center"><b>Day 02</b><br>26-Nov-2024</td>
+            <td align="center"><a href="https://web.facebook.com/share/v/14vj9pVq9m/">7PM PKT DSA for Absolute Beginners | week 5 | Day 2</a></td>
+            <td align="center"></td>
+            <td align="center">Solved Leetcode Problem: 3, 1876</td>
+            <td align="center"><a href="https://www.linkedin.com/in/sheharyar-anwar/">Sheharyar Anwar</a> & <a href="https://github.com/LaibaKhan112">Laiba Khan</a></td>
+         </tr>
+         <tr>
+            <td align="center"><b>Day 03</b><br>27-Nov-2024</td>
+            <td align="center"><a href="https://fb.watch/w9wurAePQx/">7PM PKT DSA for Absolute Beginners | week 5 | Day 3</a></td>
+            <td align="center"></td>
+            <td align="center">Solved Leetcode Problem: 367, 374</td>
+            <td align="center"><a href="https://www.linkedin.com/in/sheharyar-anwar/">Sheharyar Anwar</a> & <a href="https://github.com/LaibaKhan112">Laiba Khan</a></td>
+         </tr>
+         <tr>
+            <td align="center"><b>Day 04</b><br>28-Nov-2024</td>
+            <td align="center"><a href="https://fb.watch/w9xsS-KaXQ/">7PM PKT DSA for Absolute Beginners | week 5 | Day 4</a></td>
+            <td align="center"></td>
+            <td align="center">Solved Leetcode Problem: 374, 33</td>
+            <td align="center"><a href="https://www.linkedin.com/in/sheharyar-anwar/">Sheharyar Anwar</a> & <a href="https://github.com/LaibaKhan112">Laiba Khan</a></td>
+         </tr>
+          <tr>
+            <td align="center"><b>Day 05</b><br>29-Nov-2024</td>
+            <td align="center"><a href="https://www.facebook.com/share/v/14davavnoo/">7PM PKT DSA for Absolute Beginners | week 5 | Day 5</a></td>
+            <td align="center"></td>
+            <td align="center">Presentation Day: Solved Leetcode Problem: 441, 9</td>
+            <td align="center"><a href="https://www.linkedin.com/in/sheharyar-anwar/">Sheharyar Anwar</a> & <a href="https://github.com/LaibaKhan112">Laiba Khan</a></td>
+         </tr>
+         
+
+         
 
         
         
