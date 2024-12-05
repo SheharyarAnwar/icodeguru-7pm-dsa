@@ -245,6 +245,42 @@
             <td align="center">Presentation Day: Solved Leetcode Problem: 441, 9</td>
             <td align="center"><a href="https://www.linkedin.com/in/sheharyar-anwar/">Sheharyar Anwar</a> & <a href="https://github.com/LaibaKhan112">Laiba Khan</a></td>
          </tr>
+         <tr>
+            <td align="center" rowspan="5"><b>Week 06</b></td>
+            <td align="center"><b>Day 01</b><br>02-Dec-2024</td>
+            <td align="center"><a href="https://fb.watch/w9wjvxH-0L/">7PM PKT DSA for Absolute Beginners | Week 6 | Day 1</a></td>
+            <td align="center"></td>
+            <td align="center">Discussed Stacks<br>Solved Leetcode Problem: 844,20</td>
+            <td align="center"><a href="https://www.linkedin.com/in/sheharyar-anwar/">Sheharyar Anwar</a> & <a href="https://github.com/LaibaKhan112">Laiba Khan</a></td>
+         </tr>
+         <tr>
+           <td align="center"><b>Day 02</b><br>03-Dec-2024</td>
+            <td align="center"><a href="https://fb.watch/whFM6tPj30/">7PM PKT DSA for Absolute Beginners | Week 6 | Day 2</a></td>
+            <td align="center"></td>
+            <td align="center">Discussed Stacks: Solved Leetcode Problem: 844, 20</td>
+            <td align="center"><a href="https://www.linkedin.com/in/sheharyar-anwar/">Sheharyar Anwar</a> & <a href="https://github.com/LaibaKhan112">Laiba Khan</a></td>
+         </tr>
+         <tr>
+            <td align="center"><b>Day 03</b><br>04-Dec-2024</td>
+            <td align="center"><a href="https://www.facebook.com/share/v/19ZfJSHcZf/">7PM PKT DSA for Absolute Beginners | Week 6 | Day 3</a></td>
+            <td align="center"></td>
+            <td align="center">Solved Leetcode Problem: 682, 1047</td>
+            <td align="center"><a href="https://www.linkedin.com/in/sheharyar-anwar/">Sheharyar Anwar</a> & <a href="https://github.com/LaibaKhan112">Laiba Khan</a></td>
+         </tr>
+         <tr>
+            <td align="center"><b>Day 04</b><br>05-Dec-2024</td>
+            <td align="center"><a href="https://www.facebook.com/share/v/1GWZqNyKCs/">7PM PKT DSA for Absolute Beginners | Week 6 | Day 4</a></td>
+            <td align="center"></td>
+            <td align="center">Solved Leetcode Problem: 150</td>
+            <td align="center"><a href="https://www.linkedin.com/in/sheharyar-anwar/">Sheharyar Anwar</a> & <a href="https://github.com/LaibaKhan112">Laiba Khan</a></td>
+         </tr>
+          <tr>
+            <td align="center"><b>Day 05</b><br>06-Nov-2024</td>
+            <td align="center"><a href="https://www.facebook.com/share/v/14davavnoo/">7PM PKT DSA for Absolute Beginners | Week 6 | Day 5</a></td>
+            <td align="center"></td>
+            <td align="center">Presentation Day: Solved Leetcode Problem: 441, 9</td>
+            <td align="center"><a href="https://www.linkedin.com/in/sheharyar-anwar/">Sheharyar Anwar</a> & <a href="https://github.com/LaibaKhan112">Laiba Khan</a></td>
+         </tr>
          
 
          
