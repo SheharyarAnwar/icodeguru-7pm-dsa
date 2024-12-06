@@ -276,7 +276,7 @@
          </tr>
          <tr>
             <td align="center"><b>Day 05</b><br>06-Dec-2024</td>
-            <td align="center"><a href="https://www.facebook.com/share/v/1DVNpoRtSc/">7PM PKT DSA for Absolute Beginners | Week 6 | Day 4</a></td>
+            <td align="center"><a href="https://www.facebook.com/share/v/1DVNpoRtSc/">7PM PKT DSA for Absolute Beginners | Week 6 | Day 5</a></td>
             <td align="center"></td>
             <td align="center">Presentation Day<br>Solved Leetcode Problem: 71,3</td>
             <td align="center"><a href="https://www.linkedin.com/in/sheharyar-anwar/">Sheharyar Anwar</a> & <a href="https://github.com/LaibaKhan112">Laiba Khan</a></td>
