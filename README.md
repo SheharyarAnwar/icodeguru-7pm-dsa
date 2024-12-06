@@ -219,9 +219,9 @@
          </tr>
          <tr>
            <td align="center"><b>Day 02</b><br>26-Nov-2024</td>
-            <td align="center"><a href="https://web.facebook.com/share/v/14vj9pVq9m/">7PM PKT DSA for Absolute Beginners | week 5 | Day 2</a></td>
+            <td align="center"><a href="https://www.facebook.com/share/v/14anac5vxg/">7PM PKT DSA for Absolute Beginners | week 5 | Day 2</a></td>
             <td align="center"></td>
-            <td align="center">Solved Leetcode Problem: 3, 1876</td>
+            <td align="center">Solved Leetcode Problem: 153, 367</td>
             <td align="center"><a href="https://www.linkedin.com/in/sheharyar-anwar/">Sheharyar Anwar</a> & <a href="https://github.com/LaibaKhan112">Laiba Khan</a></td>
          </tr>
          <tr>
