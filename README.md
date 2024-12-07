@@ -255,7 +255,7 @@
          </tr>
          <tr>
            <td align="center"><b>Day 02</b><br>03-Dec-2024</td>
-            <td align="center"><a href="https://fb.watch/whFM6tPj30/">7PM PKT DSA for Absolute Beginners | Week 6 | Day 2</a></td>
+            <td align="center"><a href="https://fb.watch/wkjPmIG9-P/">7PM PKT DSA for Absolute Beginners | Week 6 | Day 2</a></td>
             <td align="center"></td>
             <td align="center">Discussed Stacks: Solved Leetcode Problem: 844, 20</td>
             <td align="center"><a href="https://www.linkedin.com/in/sheharyar-anwar/">Sheharyar Anwar</a> & <a href="https://github.com/LaibaKhan112">Laiba Khan</a></td>
